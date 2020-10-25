@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SteakTimer</string>
+    <string name="rotate_message">스테이크를 뒤집어 주세요</string>
+    <string name="medium_fire_after_rotate">중간불로 줄이고 스테이크를 뒤집어 주세요</string>
+    <string name="resting">스테이크를 꺼내서 레스팅 해주세요.</string>
+    <string name="resting_finish">레스팅이 완료되었습니다.</string>
+</resources>
